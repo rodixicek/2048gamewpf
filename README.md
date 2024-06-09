@@ -1,7 +1,3 @@
-Sure! Here is the documentation formatted for a `.md` (Markdown) file:
-
----
-
 # Projekt WPF 2048 - Documentation
 
 ## Overview
